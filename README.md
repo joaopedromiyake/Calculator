@@ -1,6 +1,6 @@
 # Calculator <h1>
 
-## Description <h2>
+ ## Description <h2>
 
 This project is a simple calculator implemented in Python. It is capable of performing the four basic mathematical operations: addition, subtraction, multiplication, and division.
 
